@@ -12,7 +12,7 @@
 
 @implementation RNCameraManager
 
-RCT_EXPORT_MODULE(RNCameraManager);
+RCT_EXPORT_MODULE(RNCamera);
 RCT_EXPORT_VIEW_PROPERTY(onCameraReady, RCTDirectEventBlock);
 RCT_EXPORT_VIEW_PROPERTY(onAudioInterrupted, RCTDirectEventBlock);
 RCT_EXPORT_VIEW_PROPERTY(onAudioConnected, RCTDirectEventBlock);
